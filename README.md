@@ -2,7 +2,7 @@
 
 An edit of [SRB2Kart (v1) Colours Preview](https://github.com/Koolwad/srb2kart-colours-preview) to be compatible with the palette and skincolors used in Dr. Robotnik's Ring Racers.
 
-The full list of skincolors can be found [here](https://imgur.com/XxutE72). Credits to Axecrusader and FrivilousAqua for making the graphic!
+The full list of skincolors can be found [here](https://imgur.com/XxutE72). Credits to Axecrusader and FrivolousAqua for making the graphic!
 
 # Installing the Script
 
